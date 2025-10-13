@@ -19,7 +19,8 @@
 
    - Выдать список учеников и предметов, по которым число пятерок больше заданного, отсортированный ученикам и предметам.
 # Лабораторная работа 1
-## ER-Модель // URL:[ https://www.drawdb.app/editor?shareId=59bb8c54e3a6b22a4e76f6e2bfc5fe2f](https://github.com/Ekaterinagele/Databases)
+## ER-Модель<img width="779" height="624" alt="ER-модель" src="https://github.com/user-attachments/assets/6ce9ebdb-d104-49a1-a757-f9d99d949e1b" />
+
 ### Базовые сущности 
 
     Ученики (student_id, ФИО, Имя, Отчество, Адрес, Номер телефона, ФИО отца, ФИО матери, Номер телефона матери), первичный ключ - student_id
