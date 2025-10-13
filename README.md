@@ -18,12 +18,12 @@
    - Выдать список учеников, получивших двойки или пропустивших занятия в определенный интервал дат.
 
    - Выдать список учеников и предметов, по которым число пятерок больше заданного, отсортированный ученикам и предметам.
-   - 
 # Лабораторная работа 1
 
 ### Базовые сущности 
 
-    Ученики (student_id, last_name, first_name, middle_name, address, phone_number, father_last_name,             father_first_name, father_middle_name, mother_last_name, mother_first_name, mother_middle_name, mother_phone_number), первичный ключ - student_id
+    Ученики (student_id, last_name, first_name, middle_name, address, phone_number, father_last_name, 
+    father_first_name, father_middle_name, mother_last_name, mother_first_name, mother_middle_name, mother_phone_number), первичный ключ - student_id
     Предметы (subject_id, subject_name), первичный ключ - subject_id
     Оценки (grade_id, student_id, subject_id, grade_value, date), первичный ключ - grade_id, внешние ключи - student_id subject_id
 ### Отношения 
@@ -71,7 +71,7 @@
   - ```type_id::integer```
 
 ## Проверка нормальных форм: 
-```
+```text 
 Отличная начальная работа! Вы хорошо структурировали задачу и продумали основные сущности. Однако в модели есть несколько критических ошибок и мест для улучшения.
 
 Давайте разберем все по порядку.
