@@ -91,9 +91,9 @@ CREATE TABLE grades (
 );
 ``` 
 ## Проверка нормальных форм: 
-**Критические ошибки:**
+### Критические ошибки:**
 
-**Проблемы:**
+###Проблемы:
 
 **1. Несоответствие постановки задачи и реализации**
 В постановке: Предметы (student_id, Название предмета) - это *ошибка*! Предметы не должны зависеть от ученика. В реализации вы правильно сделали отдельную таблицу subjects.
@@ -118,7 +118,7 @@ CREATE TABLE grades (
 * address → phone_number (функциональная зависимость)
 * Город/улица могут определять телефонный код
 
-**Решение проблемы:**
+###Решение проблемы:
 ```sql
 CREATE TABLE addresses (
     address_id SERIAL PRIMARY KEY,
@@ -185,7 +185,7 @@ CREATE INDEX idx_grades_student_date ON grades(student_id, date);
 CREATE INDEX idx_grades_subject_grade ON grades(subject_id, grade_value);
 CREATE INDEX idx_grades_date ON grades(date);
 ```
-**Проверка требований:**
+### Проверка требований:
 **Запрос 1: Двойки и пропуски:**
 ```sql
 -- Будет работать с текущей структурой
@@ -208,7 +208,7 @@ GROUP BY s.student_id, s.last_name, s.first_name, sub.subject_name
 HAVING COUNT(*) > 3  -- больше 3 пятерок
 ORDER BY s.last_name, s.first_name, sub.subject_name;
 ```
-**Итоговые рекомендации:**
+### Итоговые рекомендации:
 
 *1. Исправить тип primary key на SERIAL/BIGSERIAL*
 
@@ -221,4 +221,19 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 *5. Рассмотреть нормализацию адресов и данных родителей*
 
 *6. Добавить ограничения NOT NULL где необходимо*
+
+##Полученные диаграммы:
+### ER-диаграмма 
+
+<img width="1623" height="568" alt="Untitled (5)" src="https://github.com/user-attachments/assets/0fccc931-949b-4ff4-91fa-66d2609f3aa9" />
+
+### Логическая модель в виде Диаграммы классов UML-2.4
+
+<img width="3920" height="2356" alt="deepseek_mermaid_20251013_502a06" src="https://github.com/user-attachments/assets/3a6e3393-fd98-4420-ad85-c97004447d03" />
+
+### Физическая модель 
+
+<img width="5095" height="3489" alt="deepseek_mermaid_20251013_d40952" src="https://github.com/user-attachments/assets/265a82ee-e605-4ba3-aa5c-00975f827cc8" />
+
+
 
