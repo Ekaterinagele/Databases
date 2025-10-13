@@ -19,7 +19,8 @@
 
    - Выдать список учеников и предметов, по которым число пятерок больше заданного, отсортированный ученикам и предметам.
 # Лабораторная работа 1
-## ER-Модель<img width="779" height="624" alt="ER-модель" src="https://github.com/user-attachments/assets/6ce9ebdb-d104-49a1-a757-f9d99d949e1b" />
+## ER-Модель
+<img width="779" height="624" alt="ER-модель" src="https://github.com/user-attachments/assets/6ce9ebdb-d104-49a1-a757-f9d99d949e1b" />
 
 ### Базовые сущности 
 
