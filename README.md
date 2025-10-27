@@ -235,7 +235,7 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 ## Полученные диаграммы:
 ### ER-диаграмма 
 
-<img width="1623" height="568" alt="Untitled (5)" src="https://github.com/user-attachments/assets/0fccc931-949b-4ff4-91fa-66d2609f3aa9" />
+<img width="1332" height="568" alt="dbdiagram.io" src="https://github.com/user-attachments/assets/610bee37-cadc-4455-8b2f-bb13a3ae6cb7" />
 
 ### Логическая модель в виде Диаграммы классов UML-2.4
 
