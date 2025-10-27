@@ -242,7 +242,7 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 ### Физическая модель 
 
-<img width="5095" height="3489" alt="deepseek_mermaid_20251013_d40952" src="https://github.com/user-attachments/assets/265a82ee-e605-4ba3-aa5c-00975f827cc8" />
 
+<img width="5036" height="3066" alt="deepseek_mermaid_20251027_968b9a" src="https://github.com/user-attachments/assets/927bb42d-9039-45df-9213-d6905fa1c493" />
 
 
