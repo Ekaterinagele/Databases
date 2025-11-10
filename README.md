@@ -264,7 +264,7 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 <img width="1118" height="677" alt="addresses" src="https://github.com/user-attachments/assets/6b3f13f6-876e-48ca-abe2-c402a7be4823" />
 
-#### Таблица grades
+### Таблица grades
 
 <img width="1120" height="681" alt="grades" src="https://github.com/user-attachments/assets/36f2f56c-35c2-45bf-a96c-a77863f09871" />
 
@@ -274,21 +274,22 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 ## Таблицы заполнены данными
 
+### Таблица parents
 <img width="975" height="1182" alt="1" src="https://github.com/user-attachments/assets/7f467ee4-1b9c-410c-a979-0b15e1579fa2" />
 
-
+### Таблица addresses
 <img width="976" height="1106" alt="2" src="https://github.com/user-attachments/assets/16a890e8-6193-42d1-b949-a52d2a5f0a82" />
 
-
+### Таблица students
 <img width="613" height="679" alt="3" src="https://github.com/user-attachments/assets/5cb4f426-a142-472a-8a9c-6d817bb0236c" />
 
-
+### Таблица subjects
 <img width="615" height="687" alt="4" src="https://github.com/user-attachments/assets/a6ab1b32-ef9e-44d6-aede-979a32c2bab2" />
 
-
+### Таблица record_types
 <img width="608" height="674" alt="5" src="https://github.com/user-attachments/assets/99c6276b-2724-425a-a870-c6b35c5bf337" />
 
-
+### Таблица grades
 <img width="977" height="1415" alt="students_1" src="https://github.com/user-attachments/assets/6b6f868e-b290-45b9-bc74-88232b6fde0b" />
 
 ## Выполнены SELECT-запросы c JOIN
