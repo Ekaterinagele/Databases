@@ -239,11 +239,11 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 ### Логическая модель в виде Диаграммы классов UML-2.4
 
-<img width="3920" height="2356" alt="deepseek_mermaid_20251013_502a06" src="https://github.com/user-attachments/assets/3a6e3393-fd98-4420-ad85-c97004447d03" />
+<img width="3920" height="2356" alt="Логическая модель" src="https://github.com/user-attachments/assets/3a6e3393-fd98-4420-ad85-c97004447d03" />
 
 ### Физическая модель 
+<img width="4973" height="2643" alt="Физическая модель" src="https://github.com/user-attachments/assets/e3b6a736-e46f-4948-98ad-096e4719a71e" />
 
 
-<img width="5036" height="3066" alt="deepseek_mermaid_20251027_968b9a" src="https://github.com/user-attachments/assets/927bb42d-9039-45df-9213-d6905fa1c493" />
 
 
