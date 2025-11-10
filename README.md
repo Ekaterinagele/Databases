@@ -272,3 +272,11 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 <img width="1119" height="682" alt="parents" src="https://github.com/user-attachments/assets/83787486-2241-4104-8ecf-95897756b824" />
 
+## Таблицы заполнены данными
+
+<img width="977" height="7013" alt="students_1" src="https://github.com/user-attachments/assets/6dfa4572-8615-4bfd-9a16-75df5f95d0e8" />
+
+
+
+
+
