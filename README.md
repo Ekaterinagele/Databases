@@ -254,7 +254,7 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 ### Таблица subjects
 
-
+<img width="1216" height="1034" alt="23" src="https://github.com/user-attachments/assets/d31d6fa6-2515-404c-a9bb-24c73829bb41" />
 
 ### Таблица record_types
 
