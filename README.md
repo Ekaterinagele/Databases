@@ -248,27 +248,27 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 ## Создание DDL-запросов для PostgreSQL
 ### Создана структура БД в pgAdmin
 
-**Таблица students**
+#### Таблица students 
 
 <img width="1107" height="681" alt="students" src="https://github.com/user-attachments/assets/06736f22-8ab1-4b2c-9a8f-257b4d560e22" />
 
-**Таблица subjects**
+#### Таблица subjects
 
 <img width="1118" height="681" alt="subjects" src="https://github.com/user-attachments/assets/0354896f-98a4-47ad-81cb-465d24ed38a0" />
 
-**Таблица record_types**
+#### Таблица record_types
 
 <img width="1121" height="681" alt="record_types" src="https://github.com/user-attachments/assets/79ccf799-d1af-4fe1-9040-27860229d661" />
 
-**Таблица addresses**
+#### Таблица addresses
 
 <img width="1118" height="677" alt="addresses" src="https://github.com/user-attachments/assets/6b3f13f6-876e-48ca-abe2-c402a7be4823" />
 
-**Таблица grades**
+#### Таблица grades
 
 <img width="1120" height="681" alt="grades" src="https://github.com/user-attachments/assets/36f2f56c-35c2-45bf-a96c-a77863f09871" />
 
-**Таблица parents**
+#### Таблица parents
 
 <img width="1119" height="682" alt="parents" src="https://github.com/user-attachments/assets/83787486-2241-4104-8ecf-95897756b824" />
 
