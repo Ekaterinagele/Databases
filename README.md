@@ -288,7 +288,8 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 <img width="1216" height="1034" alt="23" src="https://github.com/user-attachments/assets/d31d6fa6-2515-404c-a9bb-24c73829bb41" />
 
 ### Таблица record_types
-<img width="919" height="822" alt="Без имени" src="https://github.com/user-attachments/assets/38fdb871-1117-436f-9113-2688eb66f576" />
+
+<img width="603" height="597" alt="5" src="https://github.com/user-attachments/assets/22ce9090-f3b8-464e-9dc3-aee055cd983a" />
 
 
 ### Таблица grades
