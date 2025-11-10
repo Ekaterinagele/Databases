@@ -291,6 +291,13 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 <img width="977" height="1415" alt="students_1" src="https://github.com/user-attachments/assets/6b6f868e-b290-45b9-bc74-88232b6fde0b" />
 
+## Выполнены SELECT-запросы c JOIN
+### Запрос 1.
+**Выведем список оценок учеников, исключая пропуски.**
+Запрос объединяет таблицы **students, grades, subjects**.
+В результате получим 13 строк, содержащих фамилию, имя ученика, предмет и оценку. 
+
+<img width="1201" height="723" alt="запрос 1" src="https://github.com/user-attachments/assets/25ea2391-970c-422a-ade2-b4b089fa028b" />
 
 
 
