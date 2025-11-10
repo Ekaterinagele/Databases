@@ -274,7 +274,18 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 ## Таблицы заполнены данными
 
-<img width="977" height="7013" alt="students_1" src="https://github.com/user-attachments/assets/6dfa4572-8615-4bfd-9a16-75df5f95d0e8" />
+<img width="975" height="1182" alt="1" src="https://github.com/user-attachments/assets/7f467ee4-1b9c-410c-a979-0b15e1579fa2" />
+
+<img width="976" height="1106" alt="2" src="https://github.com/user-attachments/assets/16a890e8-6193-42d1-b949-a52d2a5f0a82" />
+
+<img width="613" height="679" alt="3" src="https://github.com/user-attachments/assets/5cb4f426-a142-472a-8a9c-6d817bb0236c" />
+
+<img width="615" height="687" alt="4" src="https://github.com/user-attachments/assets/a6ab1b32-ef9e-44d6-aede-979a32c2bab2" />
+
+<img width="608" height="674" alt="5" src="https://github.com/user-attachments/assets/99c6276b-2724-425a-a870-c6b35c5bf337" />
+
+<img width="977" height="1415" alt="students_1" src="https://github.com/user-attachments/assets/6b6f868e-b290-45b9-bc74-88232b6fde0b" />
+
 
 
 
