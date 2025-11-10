@@ -281,7 +281,8 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 <img width="976" height="1106" alt="2" src="https://github.com/user-attachments/assets/16a890e8-6193-42d1-b949-a52d2a5f0a82" />
 
 ### Таблица students
-<img width="613" height="679" alt="3" src="https://github.com/user-attachments/assets/5cb4f426-a142-472a-8a9c-6d817bb0236c" />
+<img width="1183" height="1063" alt="22" src="https://github.com/user-attachments/assets/d206a0fe-b58b-4526-a842-df550a283fdc" />
+
 
 ### Таблица subjects
 <img width="615" height="687" alt="4" src="https://github.com/user-attachments/assets/a6ab1b32-ef9e-44d6-aede-979a32c2bab2" />
