@@ -320,3 +320,4 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 <img width="857" height="537" alt="запрос 3" src="https://github.com/user-attachments/assets/b5688fb3-e25f-4532-bb97-88731a8c1fea" />
 
+
