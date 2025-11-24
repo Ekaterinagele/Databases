@@ -322,6 +322,7 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 Запрос объединяет таблицы **students, grades, record_types**.
 В результате получим таблицу состоящую из трех строк, содержащих фамилию, имя и отчество ученика.
 
-<img width="566" height="459" alt="запрос 3" src="https://github.com/user-attachments/assets/0e01eae3-c076-4dee-88de-03a87d7816b3" />
+![1](https://github.com/user-attachments/assets/d58a8145-0b6e-41e2-b986-420b02d35118)
+
 
 
