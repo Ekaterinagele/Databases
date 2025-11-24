@@ -326,3 +326,16 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 ![3](https://github.com/user-attachments/assets/1ccfc3c1-b7c4-41b9-93fa-30ba18f265ff)
 
 
+# Лабораторная работа 3
+## Представления и процедуры
+### Создано VIEW для запроса
+
+![view](https://github.com/user-attachments/assets/28ab450d-0a20-4c30-b74b-bc8dedc22882)
+
+**Проверка работы представления**
+
+<img width="685" height="380" alt="проверка1" src="https://github.com/user-attachments/assets/25157b8a-5db0-47c3-81b9-7f6bc98ebd1e" />
+
+
+
+
