@@ -336,6 +336,12 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 <img width="685" height="380" alt="проверка1" src="https://github.com/user-attachments/assets/25157b8a-5db0-47c3-81b9-7f6bc98ebd1e" />
 
+### Создана функиция, для поиска учеников в сколичесвтом пятерок больше заданного
 
+<img width="835" height="667" alt="function" src="https://github.com/user-attachments/assets/3eeef5ce-1df7-4457-b1df-5a8108523574" />
+
+**Проверка работы функции**
+
+<img width="690" height="447" alt="проверка2" src="https://github.com/user-attachments/assets/6b62510f-99d0-45ed-8204-6d628691b1aa" />
 
 
