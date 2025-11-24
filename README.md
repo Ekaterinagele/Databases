@@ -312,12 +312,6 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 <img width="861" height="569" alt="запрос 2" src="https://github.com/user-attachments/assets/806ccf7b-1128-4f8b-8bdc-d87d527127d2" />
 
-### Запрос 3.
-**Выведем список всех учеников, фамилия отца которых Иванов**.
-
-Запрос объединяет таблицы **students, parents**.
-В результате получим таблицу состоящую из одной строки, содержащих фамилию, имя и отчество ученика. 
-
-<img width="857" height="537" alt="запрос 3" src="https://github.com/user-attachments/assets/b5688fb3-e25f-4532-bb97-88731a8c1fea" />
-
+### Запрос 3. 
+**Выдать список учеников, получивших двойки или пропустивших занятия в определенный интервал дат**.
 
