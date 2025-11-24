@@ -300,15 +300,8 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 <img width="977" height="1415" alt="students_1" src="https://github.com/user-attachments/assets/6b6f868e-b290-45b9-bc74-88232b6fde0b" />
 
 ## Выполнены SELECT-запросы c JOIN
+
 ### Запрос 1.
-**Выведем список оценок учеников, исключая пропуски.**
-
-Запрос объединяет таблицы **students, grades, subjects**.
-В результате получим 13 строк, содержащих фамилию, имя ученика, предмет и оценку. 
-
-<img width="1201" height="723" alt="запрос 1" src="https://github.com/user-attachments/assets/25ea2391-970c-422a-ade2-b4b089fa028b" />
-
-### Запрос 2.
 **Выведем список всех учеников, которые получили пятерки по математике**.
 
 Запрос объединяет таблицы **students, grades, subjects**.
@@ -316,7 +309,7 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 <img width="861" height="569" alt="запрос 2" src="https://github.com/user-attachments/assets/806ccf7b-1128-4f8b-8bdc-d87d527127d2" />
 
-### Запрос 3. 
+### Запрос 2. 
 **Выдать список учеников, получивших двойки или пропустивших занятия в определенный интервал дат**.
 
 Запрос объединяет таблицы **students, grades, record_types**.
@@ -324,5 +317,12 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 ![1](https://github.com/user-attachments/assets/d58a8145-0b6e-41e2-b986-420b02d35118)
 
+### Запрос 3.
+**Выдать список учеников и предметов, по которым число пятерок больше заданного, отсортированный ученикам и предметам.**
+
+Запрос объединяет таблицы **students, grades, subjects**.
+В результате получим таблицу состоящую из девяти строк, содержащих фамилию, имя и отчество ученика, предмет и количество пятерок.
+
+![3](https://github.com/user-attachments/assets/1ccfc3c1-b7c4-41b9-93fa-30ba18f265ff)
 
 
