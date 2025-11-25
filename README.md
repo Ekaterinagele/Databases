@@ -338,7 +338,7 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 ### Создана функция get_students_with_min_fives
 
-Создана функиция для поиска учеников в сколичесвтом пятерок больше заданного
+Создана функиция для поиска учеников с количеством пятерок больше заданного
 
 <img width="835" height="667" alt="function" src="https://github.com/user-attachments/assets/3eeef5ce-1df7-4457-b1df-5a8108523574" />
 
