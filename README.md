@@ -348,5 +348,7 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 ### Созданы процедуры для редактирования 
 
-<img width="819" height="647" alt="Без имени" src="https://github.com/user-attachments/assets/e6a08882-6ec7-49b0-ba74-55074bfd450d" />
+<img width="964" height="772" alt="процедуры" src="https://github.com/user-attachments/assets/b81ed293-7c98-4ab0-a4cd-95b047a5a938" />
+
+
 
