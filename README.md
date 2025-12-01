@@ -346,4 +346,6 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 <img width="690" height="447" alt="проверка2" src="https://github.com/user-attachments/assets/6b62510f-99d0-45ed-8204-6d628691b1aa" />
 
+### Созданы процедуры для редактирования 
 
+<img width="819" height="647" alt="процедуры" src="https://github.com/user-attachments/assets/06c68a58-c135-4de9-829c-cdea4f89561d" />
