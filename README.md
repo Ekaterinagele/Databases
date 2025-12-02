@@ -350,5 +350,8 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 <img width="964" height="772" alt="процедуры" src="https://github.com/user-attachments/assets/b81ed293-7c98-4ab0-a4cd-95b047a5a938" />
 
+# Лабораторная работа 4
+## Анализ производительности
+
 
 
