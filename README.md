@@ -407,6 +407,8 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 <img width="1064" height="214" alt="lab4 7" src="https://github.com/user-attachments/assets/8fbce0f1-4255-4687-9386-14ca740f6b94" />
 <img width="1064" height="660" alt="lab4 7 1" src="https://github.com/user-attachments/assets/719d8a16-9528-4238-9e2f-06e8d62cd973" />
 
+### Происходит сканирование всей таблицы, что является менее эффективным, так как таблица может расти
+
 ## Оптимизируем БД при помощи индексов
 
 <img width="1065" height="329" alt="lab4 8" src="https://github.com/user-attachments/assets/112b258e-ff12-4b3b-9768-9b43c0b12de0" />
