@@ -376,7 +376,6 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 **Проверка работы генератора**
 
-## <img width="649" height="165" alt="lab4 3 2png" src="https://github.com/user-attachments/assets/1343538c-53a9-4ab9-9a59-9f870c6e378d" />
-
+<img width="1329" height="333" alt="lab4 3 2png" src="https://github.com/user-attachments/assets/86eba20d-aaf2-4786-a1d0-a6739e4ee837" />
 
 
