@@ -352,6 +352,13 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 # Лабораторная работа 4
 ## Анализ производительности
+### Созданы генераторы данных, заполняющие таблицы 20000 записями
 
+### Генеретор для таблицы addresses
 
+<img width="1179" height="564" alt="lab4 1" src="https://github.com/user-attachments/assets/7af4e494-f439-4c7a-ab44-2b591ab8f5a4" />
+
+**Проверка работы генератора**
+
+<img width="879" height="218" alt="lab4 1 1" src="https://github.com/user-attachments/assets/0cf24963-bf1d-4f85-b6c8-b3ce18570c9c" />
 
