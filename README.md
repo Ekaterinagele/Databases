@@ -354,7 +354,7 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 ## Анализ производительности
 ### Созданы генераторы данных, заполняющие таблицы 20000 записями
 
-### Генеретор для таблицы *addresses*
+## Генеретор для таблицы *addresses*
 
 <img width="1179" height="564" alt="lab4 1" src="https://github.com/user-attachments/assets/7af4e494-f439-4c7a-ab44-2b591ab8f5a4" />
 
@@ -362,7 +362,7 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 <img width="1023" height="225" alt="lab4 1 1" src="https://github.com/user-attachments/assets/054a2da4-9f1c-404f-bb11-7eb7588245e3" />
 
-### Генератор для таблицы *parents*
+## Генератор для таблицы *parents*
 
 <img width="1049" height="805" alt="lab4 2" src="https://github.com/user-attachments/assets/03450655-e0f5-463c-b7d8-bdfc1f801c4e" />
 
@@ -370,7 +370,7 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 <img width="1233" height="213" alt="lab4 2 2" src="https://github.com/user-attachments/assets/2de0c384-4d4d-4c65-86e4-37ce34e9763e" />
 
-### Генератор для таблицы *students*
+## Генератор для таблицы *students*
 
 <img width="1196" height="802" alt="lab4 3" src="https://github.com/user-attachments/assets/676ce710-4d0f-4e8a-a507-a37064faf8e2" />
 
