@@ -409,6 +409,13 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 ## Оптимизируем БД при помощи индексов
 
+<img width="1065" height="329" alt="lab4 8" src="https://github.com/user-attachments/assets/112b258e-ff12-4b3b-9768-9b43c0b12de0" />
+
+## Обновим статистику и посмотрим, что изменилось 
+
+<img width="1064" height="436" alt="lab4 9" src="https://github.com/user-attachments/assets/00c9f3c5-742b-41b6-bd73-41d9333d47ec" />
+<img width="1064" height="582" alt="lab4 10" src="https://github.com/user-attachments/assets/0385b988-58dd-4a69-9b5f-334cdae222fe" />
+
 
 
 
