@@ -416,7 +416,8 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 <img width="1064" height="436" alt="lab4 9" src="https://github.com/user-attachments/assets/00c9f3c5-742b-41b6-bd73-41d9333d47ec" />
 <img width="1064" height="582" alt="lab4 10" src="https://github.com/user-attachments/assets/0385b988-58dd-4a69-9b5f-334cdae222fe" />
 
-
+До оптимизации время выполнения запроса состовляло 3.911 мc, происходило сканирование всей стаблицы из 20000 строк.
+После оптимизации выполнение запроса происходит по индексу и составляет 0.286 мс, что в 14 раз быстрее.
 
 
 
