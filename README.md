@@ -385,3 +385,12 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 ## **Проверка работы генератора**
 
 <img width="1067" height="351" alt="lab4 4 1" src="https://github.com/user-attachments/assets/d1c09606-ede0-4cd8-b287-48c7723641db" />
+
+## Генератор для таблицы *record_types*
+
+<img width="1015" height="546" alt="lab4 5" src="https://github.com/user-attachments/assets/80947cb6-587e-495f-9d36-ade00b300aeb" />
+
+## **Проверка работы генератора**
+
+<img width="936" height="314" alt="lab4 5 1" src="https://github.com/user-attachments/assets/0bd21707-cad5-47ab-97e4-51b68d547735" />
+
