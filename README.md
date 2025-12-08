@@ -372,7 +372,7 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 ### Генератор для таблицы *students*
 
-<img width="789" height="785" alt="lab4 3" src="https://github.com/user-attachments/assets/bfe77646-221e-4944-a95f-462e86989491" />
+<img width="1196" height="802" alt="lab4 3" src="https://github.com/user-attachments/assets/676ce710-4d0f-4e8a-a507-a37064faf8e2" />
 
 **Проверка работы генератора**
 
