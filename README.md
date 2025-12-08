@@ -394,4 +394,12 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 <img width="989" height="326" alt="lab4 5 1" src="https://github.com/user-attachments/assets/c4f3cfae-d1b1-489f-89bf-04612cde87c2" />
 
+## Генератор для таблицы *grades*
+
+<img width="1215" height="684" alt="lab4 6" src="https://github.com/user-attachments/assets/ff29542d-f2f1-4c48-b6b8-9696fc4d38bd" />
+
+## **Проверка работы генератора**
+
+<img width="1067" height="318" alt="lab4 6 1" src="https://github.com/user-attachments/assets/386055b7-c18c-4b28-9a8d-1b3b1633ac38" />
+
 
