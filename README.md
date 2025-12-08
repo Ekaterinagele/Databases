@@ -392,5 +392,6 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 ## **Проверка работы генератора**
 
-<img width="936" height="314" alt="lab4 5 1" src="https://github.com/user-attachments/assets/0bd21707-cad5-47ab-97e4-51b68d547735" />
+<img width="989" height="326" alt="lab4 5 1" src="https://github.com/user-attachments/assets/c4f3cfae-d1b1-489f-89bf-04612cde87c2" />
+
 
