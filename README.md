@@ -354,7 +354,7 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 ## Анализ производительности
 ### Созданы генераторы данных, заполняющие таблицы 20000 записями
 
-### Генеретор для таблицы addresses
+### Генеретор для таблицы *addresses*
 
 <img width="1179" height="564" alt="lab4 1" src="https://github.com/user-attachments/assets/7af4e494-f439-4c7a-ab44-2b591ab8f5a4" />
 
@@ -362,4 +362,5 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 <img width="1023" height="225" alt="lab4 1 1" src="https://github.com/user-attachments/assets/054a2da4-9f1c-404f-bb11-7eb7588245e3" />
 
+### Генератор для таблицы *parents*
 
