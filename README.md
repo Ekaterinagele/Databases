@@ -358,9 +358,17 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 <img width="1179" height="564" alt="lab4 1" src="https://github.com/user-attachments/assets/7af4e494-f439-4c7a-ab44-2b591ab8f5a4" />
 
-**Проверка работы генератора**
+## **Проверка работы генератора**
 
 <img width="1023" height="225" alt="lab4 1 1" src="https://github.com/user-attachments/assets/054a2da4-9f1c-404f-bb11-7eb7588245e3" />
 
 ### Генератор для таблицы *parents*
+
+<img width="1049" height="805" alt="lab4 2" src="https://github.com/user-attachments/assets/03450655-e0f5-463c-b7d8-bdfc1f801c4e" />
+
+## **Проверка работы генератора**
+
+<img width="956" height="188" alt="lab4 2 2" src="https://github.com/user-attachments/assets/ab78d21c-6397-4bc0-81b4-16ad52f2b267" />
+
+
 
