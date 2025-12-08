@@ -370,4 +370,13 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 <img width="1233" height="213" alt="lab4 2 2" src="https://github.com/user-attachments/assets/2de0c384-4d4d-4c65-86e4-37ce34e9763e" />
 
+### Генератор для таблицы *students*
+
+<img width="789" height="785" alt="lab4 3" src="https://github.com/user-attachments/assets/bfe77646-221e-4944-a95f-462e86989491" />
+
+**Проверка работы генератора**
+
+## <img width="649" height="165" alt="lab4 3 2png" src="https://github.com/user-attachments/assets/1343538c-53a9-4ab9-9a59-9f870c6e378d" />
+
+
 
