@@ -402,4 +402,12 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 <img width="1067" height="318" alt="lab4 6 1" src="https://github.com/user-attachments/assets/386055b7-c18c-4b28-9a8d-1b3b1633ac38" />
 
+## Проведем анализ выполнения запроса 2
+
+<img width="840" height="324" alt="lab4 7" src="https://github.com/user-attachments/assets/a0471dfe-6adf-4fe7-819a-8ad410aceb9b" />
+<img width="817" height="672" alt="lab4 7 1" src="https://github.com/user-attachments/assets/362741bc-02a0-4dff-bde1-ae704e1ecbfc" />
+
+
+
+
 
