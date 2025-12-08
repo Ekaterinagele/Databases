@@ -404,8 +404,10 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 ## Проведем анализ выполнения запроса 2
 
-<img width="825" height="324" alt="lab4 7" src="https://github.com/user-attachments/assets/aa92e2ff-f0ce-4dd5-baea-35f46f491353" />
-<img width="825" height="672" alt="lab4 7 1" src="https://github.com/user-attachments/assets/1e83252a-aac2-4918-963e-c38bea6b0fff" />
+<img width="1064" height="214" alt="lab4 7" src="https://github.com/user-attachments/assets/8fbce0f1-4255-4687-9386-14ca740f6b94" />
+<img width="1064" height="660" alt="lab4 7 1" src="https://github.com/user-attachments/assets/719d8a16-9528-4238-9e2f-06e8d62cd973" />
+
+
 
 
 
