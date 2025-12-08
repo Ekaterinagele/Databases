@@ -378,4 +378,10 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 <img width="1329" height="333" alt="lab4 3 2png" src="https://github.com/user-attachments/assets/86eba20d-aaf2-4786-a1d0-a6739e4ee837" />
 
+## Генератор для таблицы *subjects*
 
+<img width="1198" height="462" alt="lab4 4" src="https://github.com/user-attachments/assets/d7a71d12-267c-47e1-ab5e-a23ac38bccd0" />
+
+## **Проверка работы генератора**
+
+<img width="1067" height="351" alt="lab4 4 1" src="https://github.com/user-attachments/assets/d1c09606-ede0-4cd8-b287-48c7723641db" />
