@@ -437,7 +437,7 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 ## Проверка работы триггера
 ### Выведем одну строчку таблицы *student*, удалим ученика с найденным *student_id* и проверим, 
-есль ли информация об этом ученике в таблице *grades*. 
+### есть ли информация об этом ученике в таблице *grades*. 
 ### **Триггер коорректно выполняет работу**
 
 <img width="1008" height="371" alt="lab5 3" src="https://github.com/user-attachments/assets/964cb103-2b82-4960-98b2-7a28dca1dde5" />
