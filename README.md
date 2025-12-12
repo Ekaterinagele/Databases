@@ -426,13 +426,13 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 ## Создадим триггер каскадного удаления для свезей "один-ко-многим"
 
-## При удалении ученика, будем удалять данные об его оценках.
+### При удалении ученика, будем удалять данные об его оценках.
   
-## *Создана триггер функция **delete_student_data***
+### Создана триггер функция **delete_student_data**
 
 <img width="936" height="421" alt="lab5 1" src="https://github.com/user-attachments/assets/ea8907a4-2c2e-4bb6-a307-0957fe488743" />
 
-## *Создан триггер на таблице **students***
+## Создан триггер на таблице **students**
 
 <img width="948" height="309" alt="lab5 2" src="https://github.com/user-attachments/assets/d9b02efc-21a8-4494-9ffd-09fefe312046" />
 
