@@ -445,10 +445,22 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 <img width="1008" height="325" alt="lab5 4" src="https://github.com/user-attachments/assets/e93c1f71-1da0-42c2-9a83-456df279176f" />
 <img width="1008" height="365" alt="lab5 5" src="https://github.com/user-attachments/assets/a56864ef-7368-4b08-b5b3-c9f3cdd7f6ef" />
 
-## Создание таблицы-журнала для отслеживания изменений в таблице *grades*
+## Создана таблица-журнал для отслеживания изменений в таблице *grades*
 
+<img width="1104" height="477" alt="lab5 6" src="https://github.com/user-attachments/assets/e8ab8fa2-bda3-4e20-b856-dc34617bb3e5" />
 
+## Созданы триггеры аудита изменений (INSERT, UPDATE, DELETE)
+### Триггер *INSERT*
 
+<img width="1213" height="500" alt="lab5 7" src="https://github.com/user-attachments/assets/81916afa-5aa7-4815-860b-6fb355e80f24" />
+
+### Триггер *UPDATE*
+
+<img width="1217" height="529" alt="lab5 8" src="https://github.com/user-attachments/assets/e08a057a-b27f-48d7-a99d-3af8b23ae83e" />
+
+### Триггер *DELETE* 
+
+<img width="1211" height="529" alt="lab5 9" src="https://github.com/user-attachments/assets/16b89614-0a21-45b4-b042-813975ede45f" />
 
 
 
