@@ -428,7 +428,7 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 ### При удалении ученика, будем удалять данные об его оценках.
   
-### Создана триггер функция **delete_student_data**
+## Создана триггер функция **delete_student_data**
 
 <img width="936" height="421" alt="lab5 1" src="https://github.com/user-attachments/assets/ea8907a4-2c2e-4bb6-a307-0957fe488743" />
 
