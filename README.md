@@ -433,7 +433,8 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 ## *Создан триггер на таблице **students***
 
-<img width="727" height="329" alt="lab5 2" src="https://github.com/user-attachments/assets/7589a619-5434-4c4e-9150-846f075abbfc" />
+<img width="948" height="309" alt="lab5 2" src="https://github.com/user-attachments/assets/d9b02efc-21a8-4494-9ffd-09fefe312046" />
+
 
 
 
