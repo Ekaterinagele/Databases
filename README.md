@@ -445,7 +445,7 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 <img width="1008" height="325" alt="lab5 4" src="https://github.com/user-attachments/assets/e93c1f71-1da0-42c2-9a83-456df279176f" />
 <img width="1008" height="365" alt="lab5 5" src="https://github.com/user-attachments/assets/a56864ef-7368-4b08-b5b3-c9f3cdd7f6ef" />
 
-
+## Создание таблицы-журнала для отслеживания изменений в таблице *grades*
 
 
 
