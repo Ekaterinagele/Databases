@@ -435,6 +435,15 @@ ORDER BY s.last_name, s.first_name, sub.subject_name;
 
 <img width="948" height="309" alt="lab5 2" src="https://github.com/user-attachments/assets/d9b02efc-21a8-4494-9ffd-09fefe312046" />
 
+## Проверка работы триггера
+### Выведем одну строчку таблицы *student*, удалим ученика с найденным *student_id* и проверим, 
+есль ли информация об этом ученике в таблице *grades*. 
+### **Триггер коорректно выполняет работу**
+
+<img width="1008" height="371" alt="lab5 3" src="https://github.com/user-attachments/assets/964cb103-2b82-4960-98b2-7a28dca1dde5" />
+<img width="1008" height="325" alt="lab5 4" src="https://github.com/user-attachments/assets/e93c1f71-1da0-42c2-9a83-456df279176f" />
+<img width="1008" height="365" alt="lab5 5" src="https://github.com/user-attachments/assets/a56864ef-7368-4b08-b5b3-c9f3cdd7f6ef" />
+
 
 
 
